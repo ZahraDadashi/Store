@@ -1,0 +1,15 @@
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\bin\Debug\net6.0\customer.exe
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\bin\Debug\net6.0\customer.deps.json
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\bin\Debug\net6.0\customer.runtimeconfig.json
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\bin\Debug\net6.0\customer.dll
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\bin\Debug\net6.0\customer.pdb
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\obj\Debug\net6.0\customer.csproj.AssemblyReference.cache
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\obj\Debug\net6.0\customer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\obj\Debug\net6.0\customer.AssemblyInfoInputs.cache
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\obj\Debug\net6.0\customer.AssemblyInfo.cs
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\obj\Debug\net6.0\customer.csproj.CoreCompileInputs.cache
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\obj\Debug\net6.0\customer.dll
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\obj\Debug\net6.0\refint\customer.dll
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\obj\Debug\net6.0\customer.pdb
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\obj\Debug\net6.0\customer.genruntimeconfig.cache
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\obj\Debug\net6.0\ref\customer.dll
