@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "ConvertTime/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ConvertTime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConvertTime.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ConvertTime/1.0.0": {
+      "type": "project",
+      "path": "../../../TimeMethods/ConvertTime/ConvertTime.csproj",
+      "msbuildProject": "../../../TimeMethods/ConvertTime/ConvertTime.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "ConvertTime >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Zahra\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Zahra\\Desktop\\Code\\TimeMethods\\ConvertTime\\ConvertTime.csproj": {
+              "projectPath": "C:\\Users\\Zahra\\Desktop\\Code\\TimeMethods\\ConvertTime\\ConvertTime.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

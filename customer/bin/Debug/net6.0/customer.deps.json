@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "customer/1.0.0": {
+        "dependencies": {
+          "ConvertTime": "1.0.0"
+        },
         "runtime": {
           "customer.dll": {}
+        }
+      },
+      "ConvertTime/1.0.0": {
+        "runtime": {
+          "ConvertTime.dll": {}
         }
       }
     }
   },
   "libraries": {
     "customer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConvertTime/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

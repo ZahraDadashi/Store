@@ -1,4 +1,5 @@
 ﻿using static System.Console;
+using ConvertTime;
 namespace ConsoleApplication
 {
     class Onlineshop
@@ -6,16 +7,22 @@ namespace ConsoleApplication
         static void Main()
         {
             Welcome();
-
-
         }
-    
+        /*static  BuyTime()
+        {
+            DateTime t = DateTime.Now;
+            string r1 = ConvertDateTime.ConvertDateToString(t);
+            WriteLine(r1);
+            ConvertDateTime.ConvertMiladiToShamsi(t);
+            double result = ConvertDateTime.ConvertDateTimeToTimestamp(t);
+            WriteLine(result);
+        }*/
         static void Welcome()
         {
             WriteLine("*****WELLCOME!*****");
             WriteLine("We have Books, Clothes and Electric devices.\nPlease enter the name to choose: ");
             string? ch = ReadLine();
-
+            DateTime t = DateTime.Now;
             switch (ch)
             {
                 case "books":
@@ -48,6 +55,8 @@ namespace ConsoleApplication
                     WriteLine($"c: {b3.Name}, price: {b3.Price:C}, written by: {b3.Author}, type: {b3.Type}");
                     WriteLine("Please enter to select:");
                     string? b = ReadLine();
+                    Write("On:");
+                    ConvertDateTime.ConvertMiladiToShamsi(t);
                     switch(b)
                     {
                         case "a":
@@ -91,6 +100,8 @@ namespace ConsoleApplication
                     WriteLine($"c: {c3.Name}, price: {c3.Price:C}, color: {c3.Color}, size: {c3.Size}");
                     WriteLine("Please enter to select:");
                     string? c = ReadLine();
+                    Write("On:");
+                    ConvertDateTime.ConvertMiladiToShamsi(t);
                     switch(c)
                     {
                         case "a":
@@ -134,6 +145,8 @@ namespace ConsoleApplication
                     WriteLine($"c: {e3.Name}, price: {e3.Price:C}, made in: {e3.Origin}, color:{e3.Color}");
                     WriteLine("Please enter to select:");
                     string? e = ReadLine();
+                    Write("On:");
+                    ConvertDateTime.ConvertMiladiToShamsi(t);
                     switch(e)
                     {
                         case "a":

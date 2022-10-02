@@ -13,3 +13,6 @@ C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\obj\Debug\net6.0\refint\custom
 C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\obj\Debug\net6.0\customer.pdb
 C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\obj\Debug\net6.0\customer.genruntimeconfig.cache
 C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\obj\Debug\net6.0\ref\customer.dll
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\bin\Debug\net6.0\ConvertTime.dll
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\bin\Debug\net6.0\ConvertTime.pdb
+C:\Users\Zahra\Desktop\Code\Clone1\Store\customer\obj\Debug\net6.0\customer.csproj.CopyComplete
